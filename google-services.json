@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067472448291",
+    "project_id": "danhba-bed1c",
+    "storage_bucket": "danhba-bed1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067472448291:android:37b5a7d7b56c5c3a23fa96",
+        "android_client_info": {
+          "package_name": "com.example.danhba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067472448291-1o3knd30u9uq4elg6mof8pas1vacmfkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkb2lmoVm6ClOIWeonXrQfcdJcwi2BZaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067472448291-1o3knd30u9uq4elg6mof8pas1vacmfkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
